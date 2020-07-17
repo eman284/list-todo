@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "list": [
+    { "id": 0, "content": "Buy new sweatshirt", "status": true },
+    { "id": 1, "content": "Begin promotional phase", "status": true },
+    { "id": 2, "content": "Read an article", "status": false },
+    { "id": 3, "content": "Try not to fall asleep", "status": false },
+    { "id": 4, "content": "Watch ‘Sherlock’", "status": false },
+    { "id": 5, "content": "Begin QA for the product", "status": false },
+    { "id": 6, "content": "Go for a walk", "status": false },
+    {
+      "id": 0,
+      "content": "Buy new sweatshirt Buy new sweatshirt",
+      "status": true
+    }
+  ]
 }
