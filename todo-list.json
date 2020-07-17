@@ -8,7 +8,7 @@
     { "id": 5, "content": "Begin QA for the product", "status": false },
     { "id": 6, "content": "Go for a walk", "status": false },
     {
-      "id": 0,
+      "id": 7,
       "content": "Buy new sweatshirt Buy new sweatshirt",
       "status": true
     }
