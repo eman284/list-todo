@@ -1,16 +1,75 @@
 {
-  "list": [
-    { "id": 0, "content": "Buy new sweatshirt", "status": true },
-    { "id": 1, "content": "Begin promotional phase", "status": true },
-    { "id": 2, "content": "Read an article", "status": false },
-    { "id": 3, "content": "Try not to fall asleep", "status": false },
-    { "id": 4, "content": "Watch ‘Sherlock’", "status": false },
-    { "id": 5, "content": "Begin QA for the product", "status": false },
-    { "id": 6, "content": "Go for a walk", "status": false },
+  "createdAt": "2021-08-17T07:15:19.423097+00:00",
+  "images": [
     {
-      "id": 7,
-      "content": "Buy new sweatshirt Buy new sweatshirt",
-      "status": true
+      "id": "demo/big.png",
+      "url": "https://s3-eu-west-1.amazonaws.com/aws-serverless-skeleton-dev-upload/demo/big.png"
+    },
+    {
+      "id": "demo/Bitmap14.png",
+      "url": "https://s3-eu-west-1.amazonaws.com/aws-serverless-skeleton-dev-upload/demo/Bitmap14.png"
+    },
+    {
+      "id": "demo/Bitmap1.png",
+      "url": "https://s3-eu-west-1.amazonaws.com/aws-serverless-skeleton-dev-upload/demo/Bitmap1.png"
     }
-  ]
+  ],
+  "updatedAt": "2021-08-17T07:15:19.423119+00:00",
+  "category": "Store",
+  "email": "Ask@mt.gov.sa",
+  "estimated_price": "$$$$",
+  "general_description": "التزلج على الماء Waterskiing رياضة محببة وفيها يضع المتزلِّج زلاجة في قدميه، ويتم سحبه فوق الماء بوساطة زورق ذي محرك سريع. ويمسك المتزلج بحبل مربوط في الزورق. ويقوم ملايين الناس في كل أنحاء العالم بالتزلج فوق الماء، من أجل الترويح عن النفس. بينما يقوم الكثيرون بالتنافس من خلال سلسلة من المباريات",
+  "id": "53ce152c-442e-489d-af5d-48b0cc6a043b",
+  "location": {
+    "lat": "24.80",
+    "lng": "46.64"
+  },
+  "opening_times": [
+    [
+      0,
+      "1:00",
+      "12:00"
+    ],
+    [
+      1,
+      "1:00",
+      "12:00"
+    ],
+    [
+      2,
+      "1:00",
+      "12:00"
+    ],
+    [
+      3,
+      "1:00",
+      "12:00"
+    ],
+    [
+      4,
+      "1:00",
+      "12:00"
+    ],
+    [
+      5,
+      "3:00",
+      "12:00"
+    ],
+    [
+      6,
+      "3:00",
+      "12:00"
+    ]
+  ],
+  "phone": " 9665588088",
+  "status": "PUBLISHED",
+  "tags": [
+    "سياحة",
+    "عائلة"
+  ],
+  "title": "تزلج على الماء",
+  "types_of_activities": "اي تعليمات وأشياء يجب آن تؤخذ بالاعتبار مثل كود اللبس والمعدات الخ",
+  "user_sub": "71c6f608-e6c5-45a5-b5a5-5cac9b9b7a62",
+  "website": "https://mt.gov.sa/"
 }
+
